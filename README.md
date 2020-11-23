@@ -31,5 +31,5 @@ My main technologies are Java and Spring, and I also love DevOps!
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorcury&langs_count=3&layout=compact&theme=vue-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorcury&langs_count=4&layout=compact&theme=vue-dark">
 </p>
