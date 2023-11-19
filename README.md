@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 My name is Eduardo Ribeiro Cury, and I am a Brazilian Backend Developer.
 My main technologies are Java and Spring, and I also love DevOps!
 
-- :book: I am currently learning: Angular
-- :speech_balloon: My Pronouns are: He/him
 - :mailbox_with_no_mail: Contact me in: https://www.linkedin.com/in/eduardoribeirocury/
 
 <p align="center">
